@@ -8,6 +8,7 @@ This repository contains the SQL schema and queries for a fully relational **E-C
 * **Complex Querying:** Includes a master query joining **5 tables** to generate a comprehensive sales report.
 
 ## 📂 Database Schema (ERD Logic)
+![Entity Relationship Diagram](ERD.png)
 The database tracks the flow from product listing to payment:
 1.  **Category**: Product classification.
 2.  **Product**: Stores price, stock, and links to Category.
